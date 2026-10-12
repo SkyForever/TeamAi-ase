@@ -17,10 +17,14 @@ projects:
     description: ""
     resources:
       knowledge:
-        - common test
+        - common
+        - test
       skills:
-        - common test
+        - common
+        - test
       learnings:
-        - common test
+        - common
+        - test
       agents:
-        - common test
+        - common
+        - test
