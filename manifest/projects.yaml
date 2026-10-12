@@ -1,0 +1,14 @@
+version: 1
+projects:
+  - id: service
+    name: service
+    description: cgxi service
+    resources:
+      knowledge:
+        - common service
+      skills:
+        - common service
+      learnings:
+        - common service
+      agents:
+        - common service
