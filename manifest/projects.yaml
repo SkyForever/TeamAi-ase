@@ -12,3 +12,15 @@ projects:
         - common service
       agents:
         - common service
+  - id: test
+    name: test
+    description: ""
+    resources:
+      knowledge:
+        - common test
+      skills:
+        - common test
+      learnings:
+        - common test
+      agents:
+        - common test
